@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 THIS file contain deploymentcode
 this file is updating in master branch
-hello 
+=======
+THIS IS A FILE updating
+>>>>>>> develop
+
+
